@@ -1,4 +1,4 @@
-recreational prog
+recreational prog.
 
 building for [@314oss](https://github.com/314oss).\
 big things to come soon.
