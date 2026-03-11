@@ -1,4 +1,4 @@
-recreational prog
+recreational prog.
 
 playing for the love of the game.\
 big things to come soon.\
