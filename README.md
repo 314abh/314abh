@@ -1,4 +1,9 @@
-recreational prog.
+a cat trapped in a human body.
+
+operating systems,\
+virtual machines,\
+programming languages.\
+for now, mostly recreational prog.
 
 playing for the love of the game.\
 big things to come soon.\
